@@ -1,0 +1,14 @@
+{
+  "music": {
+    "sounds": [
+      {
+        "name": "irisfantom:music",
+        "streaming": true
+      },
+      {
+        "name": "irisfantom:music/menu/menu",
+        "streaming": true
+      }
+    ]
+  }
+}
